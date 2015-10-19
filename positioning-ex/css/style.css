@@ -14,11 +14,19 @@ li {
   margin-bottom: 20px;
   list-style: none;
   width: 300px;
+    position:relative;
 }
 
 img {
   background: #fff;
   padding: 5px;
+  border-radius: 60px;
+  position: absolute;
+    right: -10px;
+    bottom: -10px;
+        
+       
+    
 }
 
 

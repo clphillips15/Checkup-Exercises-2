@@ -1,25 +1,35 @@
 /* 
 * Override background gradient
 * Make `background: white`
+Score: 0 0 0 1 
 */
 
-
+body   {
+background: white;
+}
 
 /* 
 * Override Terrible Papayrus Font 
 * Change to `font-family: sans-serif`
 */
-
+body  {
+font-family:sans-serif;
+}
 
 /* 
 * Override background yellow on paragraphs
 * Change to `background: none`
 */
-
+p {
+background: none;
+}
 
 /* 
 * Override width of image
 * Change to `width: 300px`
 */
 
+img {
+width: 30 px;
 
+}
